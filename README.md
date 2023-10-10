@@ -10,15 +10,15 @@
 - **Dataset:** Analyzed Credit Card Approval dataset.
 - **Algorithm:** Implemented K-Nearest Neighbors (KNN) for classification.
 
-### C) Heart Disease Classification - [Decision Tree](Decision Tree/)
+### C) Heart Disease Classification - [Decision Tree](Decision%20Tree/)
 - **Dataset:** Investigated Heart Disease dataset for classification.
 - **Algorithm:** Utilized Decision Trees for predictive modeling.
 
-### D) Student Dropout Prediction - [Naive Bayes](Naive Bayes/)
+### D) Student Dropout Prediction - [Naive Bayes](Naive%20Bayes/)
 - **Dataset:** Examined Student Dropout prediction task dataset.
 - **Algorithm:** Employed Naive Bayes for classification.
 
-### E) MNIST Digit Recognition - [Artificial Neural Network](Artificial Neural Networks/)
+### E) MNIST Digit Recognition - [Artificial Neural Network](Artificial%20Neural%20Networks/)
 - **Dataset:** Explored the MNIST dataset.
 - **Algorithm:** Developed an Artificial Neural Network (ANN) from scratch for digit recognition.
 
