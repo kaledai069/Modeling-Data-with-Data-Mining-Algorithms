@@ -1,4 +1,4 @@
-#### Explore the data mining projects on various datasets from the UCI Machine Learning Repository. Each project includes an IEEE formatted paper summarizing the exploratory dataset analysis and the performance of corresponding machine learning algorithms on the dataset.
+## Explore the data mining projects on various datasets from the UCI Machine Learning Repository. Each project includes an IEEE formatted paper summarizing the exploratory dataset analysis and the performance of corresponding machine learning algorithms on the dataset.
 
 ---
 
